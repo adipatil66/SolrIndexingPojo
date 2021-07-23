@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "solr",
+      "type": "com.cts.solr.readproperties.SolrProperties",
+      "sourceType": "com.cts.solr.readproperties.SolrProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "solr.collection",
+      "type": "java.lang.String",
+      "sourceType": "com.cts.solr.readproperties.SolrProperties"
+    },
+    {
+      "name": "solr.host",
+      "type": "java.lang.String",
+      "sourceType": "com.cts.solr.readproperties.SolrProperties"
+    },
+    {
+      "name": "solr.port",
+      "type": "java.lang.String",
+      "sourceType": "com.cts.solr.readproperties.SolrProperties"
+    },
+    {
+      "name": "solr.protocol",
+      "type": "java.lang.String",
+      "sourceType": "com.cts.solr.readproperties.SolrProperties"
+    }
+  ],
+  "hints": []
+}
